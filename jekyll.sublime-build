@@ -1,0 +1,5 @@
+{
+    "cmd": ["D:\\Coding\\Bin\\jekyll.sh"],
+    "working_dir": "$file_path",
+    "selector": "text.html.markdown"
+}

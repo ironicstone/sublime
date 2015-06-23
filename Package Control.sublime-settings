@@ -1,0 +1,12 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Emmet",
+		"Package Control",
+		"RailsCasts Colour Scheme"
+	]
+}
