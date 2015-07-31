@@ -1,6 +1,10 @@
 {
 	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+<<<<<<< HEAD
 	"font_size": 17,
+=======
+	"font_size": 16,
+>>>>>>> 928248f5fa6a4f24e0065e1b00d4656e68ad6410
 	"ignored_packages":
 	[
 		"Vintage"

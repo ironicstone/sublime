@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+<<<<<<< HEAD
 		"Alignment",
 		"Autoprefixer",
 		"ColorPicker",
@@ -15,5 +16,11 @@
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SideBarEnhancements"
+=======
+		"ConvertToUTF8",
+		"Emmet",
+		"Package Control",
+		"RailsCasts Colour Scheme"
+>>>>>>> 928248f5fa6a4f24e0065e1b00d4656e68ad6410
 	]
 }
