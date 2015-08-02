@@ -5,18 +5,15 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
 		"Git",
-		"GitGutter",
-		"jQuery",
 		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
-		"SublimeREPL",
+		"RailsCasts Colour Scheme",
 		"Terminal"
 	]
 }
