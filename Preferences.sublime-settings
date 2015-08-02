@@ -1,12 +1,19 @@
 {
-	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
-<<<<<<< HEAD
-	"font_size": 17,
-=======
-	"font_size": 16,
->>>>>>> 928248f5fa6a4f24e0065e1b00d4656e68ad6410
+	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 19,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"rulers":
+	[
+		80,
+		100
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
