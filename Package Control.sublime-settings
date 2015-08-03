@@ -5,11 +5,13 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"jQuery",
 		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
