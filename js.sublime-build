@@ -1,4 +1,5 @@
 {
-	"cmd": ["C:\\Program Files\\nodejs\\node.exe","$file"],
+	//"cmd": ["C:\\Program Files\\nodejs\\node.exe","$file"], // for windows
+    "cmd": ["usr\\bin\\node","$file"], // for linux
 	"selector":"source.js"
 }

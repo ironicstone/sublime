@@ -9,6 +9,7 @@
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"FileHeader",
@@ -16,9 +17,12 @@
 		"HTML-CSS-JS Prettify",
 		"jQuery",
 		"JsFormat",
+		"JSHint Gutter",
 		"Markdown Preview",
 		"Package Control",
 		"RailsCasts Colour Scheme",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"Terminal"
 	]
 }

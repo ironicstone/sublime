@@ -1,4 +1,5 @@
 {
-  "cmd": ["C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe", "$file"],
+  //"cmd": ["C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe", "$file"],
+  "cmd": ["usr\\bin\\chrome", "$file"],
   "selector": "text.html"
 }
